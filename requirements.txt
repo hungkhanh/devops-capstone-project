@@ -29,5 +29,8 @@ codecov==2.1.12
 httpie==3.2.1
 
 # Security Headers
-Flask-Talisman==1.0.0
+Flask-Talisman
 
+Talisman
+
+Flask-Cors
